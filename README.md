@@ -1,6 +1,7 @@
 # Hi there, I'm Tiziano! 👋
 
 I'm a Bioinformatics student passionate about turning biological data into meaningful insights 🧬💻
+
 MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
 
 ---
@@ -28,13 +29,14 @@ MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
 
 ## 📈 GitHub Stats
 
-![Tiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Tiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMARSIGLIANI&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🏃 When I'm not doing science...
 
 You'll probably find me running somewhere ;)
+
 If my pipelines have to run, so do I! 🏃💨
 
 ---
