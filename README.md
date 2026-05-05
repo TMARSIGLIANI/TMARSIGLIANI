@@ -18,7 +18,7 @@ MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
 
 | | |
 |---|---|
-| **💻 Languages** | [![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org) &nbsp; [![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)](https://www.r-project.org) &nbsp; [![bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)](https://www.gnu.org/software/bash/) |
+| **💻 Languages** | Python - R - Shell - C |
 | **📦 Libraries** | Pandas · NumPy · Matplotlib · Biopython · ggplot2 |
 | **🧬 Bio Tools** | Samtools · BLAST · Bedtools · BWA · GATK |
 | **📊 Analysis** | Jupyter Notebooks · RStudio |
