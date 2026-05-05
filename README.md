@@ -7,7 +7,7 @@ MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
 ---
 
 ## 🔬 Research Interests
-- 🦎 **Phylogenomics** Tracing the Tree of Life, Molecular Evolution, Reading evolution in DNA, Where do species come from?
+- 🦎 **Phylogenomics:** Tracing the Tree of Life, Molecular Evolution, Reading evolution in DNA, Where do species come from?
 - 🧬 **Genomics:** Sequence analysis, variant calling, and comparative genomics
 - 🦠 **Computational Biology:** Modeling biological systems and molecular pathways
 - 📊 **Data Science:** Statistical analysis and visualization of biological datasets
@@ -19,17 +19,11 @@ MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
 
 | | |
 |---|---|
-| **💻 Languages** | Python - R - Shell - C |
+| **💻 Languages** | Python · R · Shell · C |
 | **📦 Libraries** | Pandas · NumPy · Matplotlib · Biopython · ggplot2 |
 | **🧬 Bio Tools** | Samtools · BLAST · Bedtools · BWA · GATK |
-| **📊 Analysis** | Jupyter Notebooks · RStudio |
+| **📊 Analysis** | Jupyter Notebooks · RStudio · VSCode · PyCharm |
 | **🛠️ Other** | Linux · Git · GitHub · LaTeX |
-
----
-
-## 📈 GitHub Stats
-
-![Tiziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMARSIGLIANI&show_icons=true&theme=tokyonight)
 
 ---
 
