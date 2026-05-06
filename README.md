@@ -7,7 +7,7 @@ MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
 ---
 
 ## 🔬 Research Interests
-- 🦎 **Phylogenomics:** Tracing the Tree of Life, Molecular Evolution, Reading evolution in DNA, Where do species come from?
+- 🦎 **Phylogenomics:** Tracing the Tree of Life, Molecular Evolution, Reading evolution in DNA, Where do we come from?
 - 🧬 **Genomics:** Sequence analysis, variant calling, and comparative genomics
 - 🦠 **Computational Biology:** Modeling biological systems and molecular pathways
 - 📊 **Data Science:** Statistical analysis and visualization of biological datasets
