@@ -2,7 +2,8 @@
 
 I'm a Bioinformatics student passionate about turning biological data into meaningful insights 🧬💻
 
-MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
+🎓  MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
+🔬  Incoming Trainee **@BSC - Barcelona Supercomputing Center & @IRB - Institut de Recerca Biomèdica Barcelona** researching on eukaryogenesis and gene ancestries leading to Least Eukaryotic Common Ancestor LECA. 
 
 ---
 
@@ -12,6 +13,7 @@ MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
 - 🦠 **Computational Biology:** Modeling biological systems and molecular pathways
 - 📊 **Data Science:** Statistical analysis and visualization of biological datasets
 - 🐍 **Bioinformatics Pipelines:** Automating workflows for large-scale data processing
+- 🕹️ **Machine Learning:** Teaching the machine how to learn from data
 
 ---
 
@@ -20,7 +22,7 @@ MSc student in Bioinformatics for Computational Genomics @PoliMi & @UniMi
 | | |
 |---|---|
 | **💻 Languages** | Python · R · Shell · C |
-| **📦 Libraries** | Pandas · NumPy · Matplotlib · Biopython · ggplot2 |
+| **📦 Libraries** | Pandas · SciKit · NumPy · Matplotlib · Biopython · ggplot2 |
 | **🧬 Bio Tools** | Samtools · BLAST · Bedtools · BWA · GATK |
 | **📊 Analysis** | Jupyter Notebooks · RStudio · VSCode · PyCharm |
 | **🛠️ Other** | Linux · Git · GitHub · LaTeX |
